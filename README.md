@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kylee Gray
+- 👀 I’m interested in contributing as a Technical Writer
+- 🌱 I’m currently learning GitHub
+- 💞️ I’m looking to collaborate on any projects at a beginner level.
+- 📫 Reach out at lulabelleinnz
